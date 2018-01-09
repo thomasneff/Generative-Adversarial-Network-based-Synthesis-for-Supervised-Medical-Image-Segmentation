@@ -5,7 +5,7 @@ This modification adds the ability to generate pixel-wise segmentations to the G
 
 For more details, check out our [paper](http://castor.tugraz.at/doku/OAGM-ARWWorkshop2017/oagm-arw-17_paper_30.pdf).
 
-For citations [bibtex](cite.bib):
+For citations ([bibtex](cite.bib)):
 ```
 Neff, Thomas and Payer, Christian and Stern, Darko and Urschler, Martin (2017). 
 Generative Adversarial Network based Synthesis for Supervised Medical Image Segmentation.
