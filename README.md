@@ -1,5 +1,5 @@
 # Generative-Adversarial-Network-based-Synthesis-for-Supervised-Medical-Image-Segmentation
-Code for the paper 'Generative Adversarial Network based Synthesis for Supervised Medical Image Segmentation'
+Code for the paper ['Generative Adversarial Network based Synthesis for Supervised Medical Image Segmentation'](http://castor.tugraz.at/doku/OAGM-ARWWorkshop2017/oagm-arw-17_paper_30.pdf)
 
 This modification adds the ability to generate pixel-wise segmentations to the GAN. Currently, it assumes that the images are grayscale, therefore the GAN model only handles 2 image channels (1 for the image, 1 for the segmentation)
 
