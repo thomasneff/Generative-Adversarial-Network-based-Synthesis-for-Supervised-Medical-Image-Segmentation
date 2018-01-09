@@ -7,7 +7,9 @@ For more details, check out our [paper](http://castor.tugraz.at/doku/OAGM-ARWWor
 
 For citations [bibtex](cite.bib):
 ```
-Neff, Thomas and Payer, Christian and Stern, Darko and Urschler, Martin (2017). Generative Adversarial Network based Synthesis for Supervised Medical Image Segmentation. In Proceedings of the OAGM&ARW Joint Workshop, pp. 140-145.
+Neff, Thomas and Payer, Christian and Stern, Darko and Urschler, Martin (2017). 
+Generative Adversarial Network based Synthesis for Supervised Medical Image Segmentation.
+In Proceedings of the OAGM&ARW Joint Workshop, pp. 140-145.
 ```
 
 # Credits
