@@ -3,7 +3,7 @@ Code for the paper 'Generative Adversarial Network based Synthesis for Supervise
 
 This modification adds the ability to generate pixel-wise segmentations to the GAN. Currently, it assumes that the images are grayscale, therefore the GAN model only handles 2 image channels (1 for the image, 1 for the segmentation)
 
-For more details, check out our [paper](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Images/team_bischof/mib/paper_pdfs/2017NeffOAGM.pdf).
+For more details, check out our [paper](http://castor.tugraz.at/doku/OAGM-ARWWorkshop2017/oagm-arw-17_paper_30.pdf).
 
 For citations [bibtex](cite.bib):
 ```
